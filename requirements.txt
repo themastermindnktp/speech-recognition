@@ -1,0 +1,8 @@
+matplotlib
+numpy
+python_speech_features
+hmmlearn
+sklearn
+librosa
+pyaudio
+pydub

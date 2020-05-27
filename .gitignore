@@ -1,0 +1,4 @@
+venv/
+temp.wav
+__pycache__/
+SpeechData/
